@@ -3,7 +3,7 @@
 ## 📝 1. Project Overview
 This dashboard provides a comprehensive analysis of customer retention patterns and future churn risks. By integrating historical data with predictive modeling, it allows businesses to transition from **reactive problem-solving** to **proactive retention strategies**.
 
----
+
 
 ## 🛠 2. Tech Stack
 * **Power BI Desktop:** Core platform for visual orchestration and reporting.
@@ -12,7 +12,7 @@ This dashboard provides a comprehensive analysis of customer retention patterns 
 * **Data Modeling:** Implemented a **Star Schema** to connect demographics, geography, and service subscriptions.
 * **File Formats:** `.pbix` (Interactive Report) and `.png/.jpg` (Documentation).
 
----
+
 
 ## 📂 3. Data Source
 The analysis is based on a dataset of **824 customers** featuring:
@@ -21,7 +21,7 @@ The analysis is based on a dataset of **824 customers** featuring:
 * **Services:** Internet Service, Online Security, Device Protection, and Paperless Billing.
 * **Financials:** Monthly Charges and Total Revenue.
 
----
+
 
 ## 🚀 4. Features & Highlights
 
@@ -35,7 +35,7 @@ Organizations often lose revenue because they cannot identify **why** or **when*
 1.  **Explains the Past:** Visualizes historical drivers and trends.
 2.  **Predicts the Future:** Specifically identifies **378 high-risk customers** for immediate intervention.
 
----
+
 
 ## 🖼 5. Visual Walkthrough
 
@@ -54,9 +54,4 @@ Organizations often lose revenue because they cannot identify **why** or **when*
 
 ![Prediction Dashboard](Screenshot%202026-01-31%20110116.jpg)
 
----
 
-## 💡 6. Business Impact & Insights
-* **Retention Strategy:** Focus on "New Joiner" incentives to stabilize customers in the 0–6 month window.
-* **Product Bundling:** Promote **Online Security** as a core feature, as it strongly correlates with long-term retention.
-* **Geographic Focus:** Priority intervention required in **Uttar Pradesh** and **Haryana** due to high churn volumes.
