@@ -45,7 +45,7 @@ Organizations often lose revenue because they cannot identify **why** or **when*
 * **Churn Drivers:** Pie chart highlighting **Competitors (41.88%)** as the primary reason for exit.
 * **Service Heatmap:** Shows high churn correlation for users **without** Online Security or Backup.
 
-![Summary Dashboard](Screenshot%202026-01-31%20110052.jpg)
+![Summary Dashboard]("Churn_Analytics/assets/Screenshot 2026-01-31 110052.png")
 
 ### **Dashboard 2: Prediction (Future Outlook)**
 * **Risk List:** A detailed Customer ID table for the sales team to target at-risk users.
