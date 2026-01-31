@@ -52,6 +52,6 @@ Organizations often lose revenue because they cannot identify **why** or **when*
 * **Tenure Risk:** Highlights the "Danger Zone"—**26%** of predicted churners are in their first 6 months.
 * **Revenue Impact:** Quantifies the potential loss from predicted churners.
 
-![Prediction Dashboard](Screenshot%202026-01-31%20110116.jpg)
+![Prediction Dashboard](https://github.com/Ashokkedari/Data-Analytics-Repo/blob/92386fe0be9a9dc022376c31d4028e52a5a7af7a/Churn_Analytics/assets/Screenshot%202026-01-31%20110116.png)
 
 
