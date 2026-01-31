@@ -1,11 +1,11 @@
-# 📊 Customer Churn Analytics & Prediction Dashboard
+# Customer Churn Analytics & Prediction Dashboard
 
-## 📝 1. Project Overview
+## 1. Project Overview
 This dashboard provides a comprehensive analysis of customer retention patterns and future churn risks. By integrating historical data with predictive modeling, it allows businesses to transition from **reactive problem-solving** to **proactive retention strategies**.
 
 
 
-## 🛠 2. Tech Stack
+## 2. Tech Stack
 * **Power BI Desktop:** Core platform for visual orchestration and reporting.
 * **Power Query:** Data transformation, cleaning, and profiling.
 * **DAX (Data Analysis Expressions):** Created complex measures for *Churn Rate %*, *Predicted Churners*, and dynamic rankings.
@@ -14,7 +14,7 @@ This dashboard provides a comprehensive analysis of customer retention patterns 
 
 
 
-## 📂 3. Data Source
+## 3. Data Source
 The analysis is based on a dataset of **824 customers** featuring:
 * **Demographics:** Gender, Age Group, and Geographic State.
 * **Account Info:** Tenure (months), Contract Type (Month-to-month, 1-Year, 2-Year), and Payment Methods.
@@ -23,21 +23,21 @@ The analysis is based on a dataset of **824 customers** featuring:
 
 
 
-## 🚀 4. Features & Highlights
+## 4. Features & Highlights
 
-### 🎯 Business Problem
+###  Business Problem
 Organizations often lose revenue because they cannot identify **why** or **when** a customer will leave. This project addresses:
 * Which demographics (Age/Gender) are highest risk?
 * How do contract types impact loyalty?
 * Which missing services correlate most with churn?
 
-### 🥅 Goal of the Dashboard
+###  Goal of the Dashboard
 1.  **Explains the Past:** Visualizes historical drivers and trends.
 2.  **Predicts the Future:** Specifically identifies **378 high-risk customers** for immediate intervention.
 
 
 
-## 🖼 5. Visual Walkthrough
+## 5. Visual Walkthrough
 
 ### **Dashboard 1: Historical Summary**
 * **KPI Ribbon:** Real-time view of Total Customers (824), Total Churn (234), and **Churn Rate (28%)**.
