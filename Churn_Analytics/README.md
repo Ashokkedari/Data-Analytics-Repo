@@ -1,19 +1,19 @@
 # Customer Churn Analytics Dashboard
-1. Short Description / Purpose
-The Churn Analytics Dashboard is a dual-layered Business Intelligence solution designed to analyze historical churn patterns and predict future customer attrition. By visualizing demographic data, service usage, and contract types, this project enables stakeholders to pinpoint high-risk segments and implement proactive retention strategies to safeguard revenue.
+1. Short Description
+This dashboard analyzes why customers leave and predicts which ones are likely to churn next. It helps businesses move from reactive fixes to proactive retention.
 
 2. Tech Stack
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Core platform for data visualization and report orchestration.
+Power BI Desktop – Core platform for data visualization.
 
-📂 Power Query – Used for data cleaning, handling null values, and profiling customer data.
+Power Query – Used for data cleaning, handling null values, and profiling customer data.
 
-🧠 DAX (Data Analysis Expressions) – Developed complex measures for Churn Rate %, Predicted Churners, and dynamic ranking of states.
+DAX – Developed complex measures for Churn Rate %, Predicted Churners, dynamic ranking of states.
 
-📝 Data Modeling – Built a star schema to connect customer demographics, geographic data, and service subscriptions.
+Data Modeling – Built a star schema to connect customer demographics, geographic data, and service subscriptions.
 
-📁 File Format – .pbix for the interactive report and .png for documentation.
+File Format – .pbix for the interactive report and .png for documentation.
 
 3. Data Source
 The dataset consists of 824 total customers with detailed attributes including:
@@ -27,7 +27,7 @@ Services: Internet service, Online security, Device protection, and Paperless bi
 Financials: Monthly charges and Total Revenue.
 
 4. Features / Highlights
-• Business Problem
+• Business Problem 
 Customer churn is a silent revenue killer. Without a clear view of why customers leave, businesses struggle to allocate marketing budgets effectively. Key unknowns included:
 
 Which age groups are most likely to leave?
