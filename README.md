@@ -1,4 +1,4 @@
-📊 Data Analytics Projects Collection
+# 📊 Data Analytics Projects Collection
 
 This repository contains all my Data Analytics projects and practical work.
 
@@ -7,7 +7,9 @@ It includes projects where I worked on data cleaning, analysis, visualization, a
 🗂 What’s Inside
 
 Projects: Each project has its own folder with datasets, scripts, and notebooks.
+
 Practical Work: Small exercises and hands-on tasks to practice data analysis.
+
 Reports/Visuals: Charts, graphs, and summaries for insights.
 
 🛠 Technologies Used
